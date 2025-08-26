@@ -12,7 +12,9 @@ Analysed a public Fortnite performance dataset from Kaggle to practice data clea
 - **Insights & limitations:** examined relationships between eliminations, accuracy, time of day, and reported mental state; highlighted data constraints, recommendations and potential reasons for findings.
 - **Export:** cleaned dataset saved for data visualization.
 
-**Files in this Repository:**  
-- [Python_Code.ipynb](Python_Code.ipynb) – Main Python script with commented analysis. 
-- [fortnite_cleaned_apprentice_project.csv](fortnite_cleaned_apprentice_project.csv) – Cleaned dataset with engineered metrics. 
-- [Portfolio_Writeup.docx](Portfolio_Writeup.docx) – Full project write-up.
+
+**Files in this Repository:** 
+[Python Code.ipynb](https://github.com/user-attachments/files/21997884/Python.Code.ipynb) – Main Python script with commented analysis.
+[Data Driven Player Insights - Fortnite.pdf](https://github.com/user-attachments/files/21998029/Data.Driven.Player.Insights.-.Fortnite.pdf) - Write-Up of Main Findings.
+[Performance_Statistics.csv](https://github.com/user-attachments/files/21997885/Performance_Statistics.csv) - Original dataset.
+[fortnite_cleaned_project.csv](https://github.com/user-attachments/files/21997886/fortnite_cleaned_project.csv) - Cleaned dataset with engineered metrics
