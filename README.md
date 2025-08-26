@@ -1,22 +1,18 @@
 # Data Driven Player Insights - Fortnite
 
 **Summary:** 
-Python analysis of Fortnite gameplay data uncovering player performance trends, custom metrics, and key insights.
+Analysed a public Fortnite performance dataset from Kaggle to practice data cleaning, transformation, and analysis skills. Engineered custom metrics to categorise players and revealed trends in eliminations, accuracy, and behavioural factors. The output is a cleaned dataset ready for data visualisation.
 
 **Tools:** Python (pandas)
 
-**Key Insights:**
-1. Correlation Between Placement and Eliminations
-2. Headshot Accuracy vs. Eliminations
-3. Performance Variations at Different Times of Day
-4. Sobriety’s Impact on Performance
+**Key Features:**
+- **Data cleaning:** handled missing values, duplicates, and impossible values.  
+- **Feature Engineering:** calculated headshot accuracy (%) and defined elimination categories (Low / Medium / High).  
+- **Data aggregation:** computed averages and proportions, minimum and maximum values to explore player performance.  
+- **Insights & limitations:** examined relationships between eliminations, accuracy, time of day, and reported mental state; highlighted data constraints, recommendations and potential reasons for findings.
+- **Export:** cleaned dataset saved for data visualization.
 
-**Project Highlights:**
-- Data cleaning, standardisation, and transformation
-- Conditional logic
-- Aggregation and analysis using IF/ELIF/ELSE, GROUPBY, ROUND functions etc
-- Data reflection; limitations and recommendations for prospective databases
-  
-
-**Full Write-Up:** [write-up.pdf]
-**Python Code SCript:** 
+**Files in this Repository:**  
+- [Python_Code.ipynb](Python_Code.ipynb) – Main Python script with commented analysis. 
+- [fortnite_cleaned_apprentice_project.csv](fortnite_cleaned_apprentice_project.csv) – Cleaned dataset with engineered metrics. 
+- [Portfolio_Writeup.docx](Portfolio_Writeup.docx) – Full project write-up.
