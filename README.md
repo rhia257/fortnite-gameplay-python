@@ -1,4 +1,4 @@
-# Data Driven Player Insights - Fortnite
+# Player Performance Insights - Fortnite
 
 **Summary:** 
 Analysed a public performance dataset from Kaggle to practice data cleaning, transformation, and analysis skills. Engineered custom metrics to categorise players and revealed trends in eliminations, accuracy, and behavioural factors. The output is a cleaned dataset ready for data visualisation.
