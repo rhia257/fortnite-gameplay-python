@@ -1,8 +1,7 @@
 # Fortnite Player Performance Insights
 
 ## Description
-This project demonstrates data cleaning, transformation, and analysis of Fortnite performance statistics derived from Kaggle using Python and pandas.  
-It covers handling missing values, standardising column names, deriving new metrics, categorising players, and aggregating data for insights. Engineered custom metrics to categorise players and revealed trends in eliminations, accuracy, and behavioural factors.
+This project demonstrates data cleaning, transformation, and analysis of Fortnite performance statistics derived from Kaggle using Python and pandas. It covers handling missing values, standardising column names, deriving new metrics, categorising players, and aggregating data for insights. Includes engineered custom metrics to categorise players and revealed trends in eliminations, accuracy, and behavioural factors.
 
 **Key Features:**
 - **Data cleaning:** loaded CSV with pandas, standardised and renamed columns, handled missing values, duplicates, and impossible values; previewing data with 'head()'.
